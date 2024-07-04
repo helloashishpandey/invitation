@@ -19,8 +19,8 @@ export default () => (
           </p>
           <p className="name">Mukesh Mandal</p>
           <div className="cardDetails">
-          <p><b>Date: 08/July/2024</b></p>
-          <p><b>Venue: Guru Kripa Garden Rakdi, Sodala, Jaipur</b></p>
+          <p>Date: 08/July/2024</p>
+          <p>Venue: Guru Kripa Garden Rakdi, Sodala, Jaipur</p>
         </div>
         </div>
       </div>
