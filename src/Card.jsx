@@ -19,8 +19,8 @@ export default () => (
           </p>
           <p className="name">Mukesh Mandal</p>
           <div className="cardDetails">
-          <p><b style={{ fontFamily: "Arial", fontSize: "10px" }}>Date: 08/July/2024</b></p>
-          <p><b style={{ fontFamily: "Arial", fontSize: "10px" }}>Venue: Guru Kripa Garden Rakdi, Sodala, Jaipur</b></p>
+          <p><b>Date: 08/July/2024</b></p>
+          <p><b>Venue: Guru Kripa Garden Rakdi, Sodala, Jaipur</b></p>
         </div>
         </div>
       </div>
